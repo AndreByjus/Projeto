@@ -1,0 +1,53 @@
+<html lang="pt">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="widht = device-widht, initial-scale = 1.0">
+        <link rel="stylesheet" href="style.css">
+        <title> Meu Portifólio </title>
+        <link href="https: //fonts.googleapis.com/css2? family= Cairo:wght@200 & display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        
+        <section id="app"> 
+            <h1> Apps </h1>
+            <div class="line"></div>
+            <iframe width="392" height="620" style="border: 0px;" 
+            src="https://studio.code.org/projects/applab/nZYCFxzQ0Cb5gQFWYiXPXeiEFkt6zQE6kybCmWc3FXo/embed">
+            </iframe>
+            <iframe width="392" height="620" style="border: 0px;" 
+            src="https://studio.code.org/projects/applab/sDJetnHTdT6VqSdCCjNqBbH-Iz0_mVwpwa5GO22f9_4/embed">
+            </iframe>
+        </section>
+
+        <section id="game"> 
+            <h1> Jogos </h1>
+            <div class="line"></div>
+            <iframe width="440" height="757" style="border: 0px;" 
+            src="https://studio.code.org/projects/gamelab/mtE1XoWw6wWQX4Hvezl8sW1I-Bg9_B38kV8Qxk9b5ys/embed">
+            </iframe>
+            <iframe width="440" height="757" style="border: 0px;" 
+            src="https://studio.code.org/projects/gamelab/UMRnYrY2p6MNcGoFvuUZqxb0Mw5nILSyOkB0Gi4YVHs/embed">
+            </iframe>
+        </section>
+
+        <section id="bot"> 
+            <h1> Bot de Chat </h1>
+            <div class="line"></div>  
+            <iframe
+            permitir="microfone;"
+            width="350px"
+            height="500px"
+            src="https://console.dialogflow.com/api-client/demo/embedded/e5590c4d-1af8-4d62-a88e-2ab937b442e1">
+            </iframe>
+        </section>
+
+        <section id="site"> 
+            <h1> Sites </h1>
+            <div class="line"></div>  
+            <a href="https://codepen.io/pen?template=wvmeqQe">
+                <img src="./Imagens/Arvore.jpg" width="350" height="450">   
+            </a>
+        </section>
+    </body>
+</html>
